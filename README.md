@@ -1,4 +1,4 @@
-# SoftwareSecurity
+# Disinformation-Campaign-01
 La repository contiene tutti i file inerenti all'analisi della campagna di disinformazione svolta.
 1. **DisarmNavigatorTechniques.json** = File Json generato dal tool disarm navgiator, contenente tutte le TTP Disarm utilizzate nella campagna
 2. **Global-Iranian-Disinformation.pdf** = Report testuale della campagna in analisi
